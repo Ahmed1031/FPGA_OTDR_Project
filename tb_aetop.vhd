@@ -1,4 +1,6 @@
--- $Id: tb_aetop.vhd 1.35 2007/06/28 21:34:21Z Aghouri Exp $
+-- File name : tb_aetop.vhd 
+-- version : 1.35 
+-- Date created : 2007/06/28 
 -- Test bench to test the functionality of AEtop --
 -- Dated : 06 Feb 2007 .
 -- Ahmed Asim Ghouri .
